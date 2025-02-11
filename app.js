@@ -11,8 +11,8 @@ let btns = document.querySelector(".btns");
 // on déclare la variable car on on va clear interval dans chaque fonction
 let interval;
 // VARIABLE INITIALISER
-let miliSeconde = 00;
-let seconde = 00; 
+let miliSeconde = "00";
+let seconde = "00"; 
 
 // FONCTION POUR LANCER LE CHRONO
 function funcPlay() {
